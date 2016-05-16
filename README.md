@@ -1,4 +1,4 @@
-# [Functions approximations (Least squares)]()
+# [Functions approximations (AproximaciondeFunciones)](https://minimoscuadrados-zadoo.rhcloud.com/)
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
@@ -6,21 +6,25 @@
 ##Graph visualization of functions from its tables of points
 
 
-This project is a web platform with a for getting mathematical functions using the Least squares method
+This project is a web platform with a for getting mathematical functions using the Least squares method,
 it implements a the following mathematical algorithms
 
 * Least square: [https://en.wikipedia.org/wiki/Least_squares](https://en.wikipedia.org/wiki/Least_squares)
 * Linear regression: [https://en.wikipedia.org/wiki/Linear_regression](https://en.wikipedia.org/wiki/Linear_regression)
 * Gauss - Jordan: [https://es.wikipedia.org/wiki/Eliminaci%C3%B3n_de_Gauss-Jordan](https://es.wikipedia.org/wiki/Eliminaci%C3%B3n_de_Gauss-Jordan)
 
-
 The algorithms are implemented with JavaScript
+
+## Live at
+
+[https://minimoscuadrados-zadoo.rhcloud.com/](https://minimoscuadrados-zadoo.rhcloud.com/)
 
 ## Used libraries
 
 * Bootstrap
 * Chart.js
 * HTML5 Boilerplate
+* Jquery
 
 ##Functions to implement
 
